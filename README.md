@@ -19,3 +19,7 @@ Full-stack ASP.NET MVC web application designed for managing club members, meeti
 - Cloudflare Tunnel
 - Tailscale (secure DB connection)
 
+## Challenges & Solutions
+- Solved SQL constraint errors in attendance system
+- Secured login against SQL injection
+- Configured remote DB access via Tailscale
