@@ -1,5 +1,7 @@
 # CyberClub Attendance & Admin System
 
+https://mtsucyberclub.com
+
 ## Overview
 Full-stack ASP.NET MVC web application designed for managing club members, meetings, and attendance.
 
@@ -17,4 +19,3 @@ Full-stack ASP.NET MVC web application designed for managing club members, meeti
 - Cloudflare Tunnel
 - Tailscale (secure DB connection)
 
-https://mtsucyberclub.com
